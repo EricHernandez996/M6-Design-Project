@@ -15,3 +15,10 @@ body {
   border: 2px solid #000;
   font-family: Arial, sans-serif;
 }
+
+.form-title {
+  text-align: center;  
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
